@@ -1,0 +1,42 @@
+# Ignore all exe files  
+*.exe
+
+# Ignore VS Code settings  
+.vscode/
+
+# Ignore build artifacts  
+build/
+out/
+bin/
+obj/
+
+# Ignore temporary files  
+*.o
+*.obj
+*.dll
+*.so
+*.a
+*.lib
+
+# Ignore compiled C binaries  
+*.out
+*.elf
+
+# Ignore backup and temp files  
+*~
+*.swp
+*.swo
+
+# Ignore Windows junk files  
+Thumbs.db
+Desktop.ini
+
+# Ignore macOS junk (if ever)  
+.DS_Store
+
+# Ignore logs  
+*.log
+
+# Ignore git itself  
+
+
