@@ -7,9 +7,9 @@
 <h3 align="center" style="color:#00eaff;">Think in Logic, Code with Purpose.</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harshith2003/Harshith2003/main/assets/coding-boy.png
-   
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300">
 </p>
+
 
 ---
 
