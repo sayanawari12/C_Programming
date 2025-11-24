@@ -1,31 +1,31 @@
+<h1 align="center">⚡ C Programming Methods 🔮</h1>
+
 <p align="center">
-
-  <img src="https://img.shields.io/badge/C%20Language-0000FF?style=for-the-badge&logo=c&logoColor=white" />
-
-  <img src="https://img.shields.io/github/repo-size/sayanawari12/C_Programming?style=for-the-badge&color=1abc9c" />
-
-  <img src="https://img.shields.io/github/last-commit/sayanawari12/C_Programming?style=for-the-badge&color=E91E63" />
-
-  <img src="https://img.shields.io/github/languages/top/sayanawari12/C_Programming?style=for-the-badge&color=f1c40f" />
-
-  <img src="https://img.shields.io/badge/Open--Source-FF5733?style=for-the-badge" />
-
+  <b>😈 Crafted with Logic, Precision, and Power 🤖</b>
 </p>
 
+<h3 align="center" style="color:#00eaff;">Think in Logic, Code with Purpose.</h3>
 
-# C Programming Practice 📚
+<p align="center">
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/desktop-programming-5697454-4748728.png" width="350"/>
+</p>
 
-Yeh repository meri C language practice ke programs ke liye hai.  
-Isme basic se leke thode advance topics tak ke code rahenge.
+---
 
-## Abhi kya hai is repo me?
+## 🧠 About This Repository  
+This repository is dedicated to the **C programming language** — the foundation of all modern computing.  
+Each program reflects **raw logic, structure, and precision**, helping build a strong understanding of core concepts.
 
-- `ArrayOfStruct.c`  
-  - `struct student` ka use  
-  - multiple students ka data array me store karke print karna
+---
 
-## Kaise run karein? 🧪
+## 📁 What You Will Find Here  
+- ⭐ Beginner to Advanced C Programs  
+- 🔥 Structured & Clean Code  
+- 🧩 Arrays, Loops, Strings  
+- 🧠 Functions, Pointers  
+- 🏷️ Structures & Practice Files  
+- 🚀 Step-by-step learning improvement
 
-1. Terminal / Git Bash se is folder me jao:
-   ```bash
-   cd D:\C_Programming
+---
+
+## 🗂️ Folder Structure (Upcoming)
